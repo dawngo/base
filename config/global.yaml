@@ -1,0 +1,11 @@
+debug:
+  host: 127.0.0.1
+  port: 8080
+
+test:
+  host: 127.0.0.1
+  port: 8081
+
+release:
+  host: 127.0.0.1
+  port: 8082
